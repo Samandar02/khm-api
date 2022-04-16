@@ -1,0 +1,16 @@
+// reset and nomalaizes
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family:'Segoe UI', Tahoma, Roboto, Oxygen, sans-serif;
+}
+a{
+    color: $secondary-color;
+    text-decoration: none;
+    display: inline-block;
+}
+.b{
+    border: 1px solid;
+}

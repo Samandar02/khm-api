@@ -1,0 +1,40 @@
+
+.master{
+    max-width: 50%;
+    min-width: 50%;
+    height: 90vh;
+    overflow-y: scroll;
+}
+.twit {
+    border: 2px solid $black200;
+    border-radius: 6px;
+    margin: 5px;
+
+    .twit-main {
+        display: flex;
+        justify-content: space-between;
+        align-items: flex-start;
+
+        .twit-body {
+            padding: 8px;
+        }
+
+        .twit-header {
+            img {
+                width: 150px;
+                height: 150px;
+                object-fit: contain;
+            }
+        }
+    }
+
+    .twit-footer {
+        padding: 0 15px;
+        background-color: $black200;
+
+        span {
+            font-size: 14px;
+            color: $black600
+        }
+    }
+}

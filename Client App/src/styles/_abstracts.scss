@@ -1,0 +1,18 @@
+// varbles
+$white:#ffffff;
+$black200:#dddddd;
+$black400:#a7a7a7;
+$black600:#646464;
+$black800:#272727;
+$black900:#000000;
+
+$primary-color:rgba(102, 166, 250, 0.993);
+$primary-number:20;
+$secondary-color:darken($primary-color,$primary-number);
+
+
+
+// mixins
+@mixin transition {
+    transition: all .3s ease-in;
+}

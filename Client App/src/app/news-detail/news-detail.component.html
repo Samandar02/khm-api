@@ -1,0 +1,16 @@
+
+<div class="darken">
+    <div class="detail">
+        <div class="detail-header">
+            <h1>{{detail.title}}</h1>
+        </div>
+        <div class="detail-body">
+            <img [src]="detail.imgUrl" alt="">
+            <p>{{detail.body}}</p>
+        </div>
+        <div class="detail-footer">
+            <span>Ko'rilgan {{detail.viewed}}</span>
+            <span>{{detail.createdAt | date}}</span>
+        </div>
+    </div>
+</div>

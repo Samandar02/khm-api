@@ -1,0 +1,22 @@
+// buttons
+.btn{
+    background-color: transparent;
+    color: $black200;
+    padding: 8px 12px;
+    border-radius: 12px;
+    cursor: pointer;
+    user-select: none;
+    border: 1px solid;
+    @include transition;
+    &.btn-dark{
+        color: darken($black200,50px);
+    }
+    &.btn-danger{
+        color: red;
+    }
+    &:hover{
+        background-color: rgba($white,.2);
+        color: $primary-color;
+    }
+}
+// dropdown

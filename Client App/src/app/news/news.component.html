@@ -1,0 +1,27 @@
+<div class="md-container">
+    <div class="master">
+        <div class="twit" *ngFor="let item of news">
+            <div (click)="goDetail(item.id)" class="twit-main">
+                <div class="twit-header">
+                    <img [src]="item.imgUrl" alt="item.imgUrl">
+                </div>
+                <div class="twit-body">
+                    <h2>{{item.title}}</h2>
+                    <p>{{item.body.slice(0,200)}}...</p>
+                </div>
+            </div>
+            <div class="twit-footer">
+                <span> Joylangan {{item.createdAt | date}}</span>
+                <span> {{item.viewed}} Marta ko'rilgan</span>
+                <ng-container *ngIf="isAdmin">
+                    <button class="btn btn-dark" (click)="method(item,'put')">Update</button>
+                    <button class="btn btn-danger" (click)="method(item,'delete')">Delete</button>
+                </ng-container>
+            </div>
+        </div>
+    </div>
+    <div class="detail-content">
+        <router-outlet></router-outlet>
+    </div>
+
+</div>

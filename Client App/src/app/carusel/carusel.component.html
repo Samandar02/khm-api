@@ -1,0 +1,11 @@
+<div class="container-title mt30">
+    <h1>{{title}}</h1>
+</div>
+<div class="carusel-content">
+    <div [ngClass]="type == 'landscape'?'landscape':'portrait'" *ngFor="let img of images" class="carusel-card">
+        <img [src]="img.path" alt="carusel_image">
+        <div class="card-title">
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Cumque?</p>
+        </div>
+    </div>
+</div>

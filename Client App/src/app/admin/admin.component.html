@@ -1,0 +1,42 @@
+<div class="container flex">
+    <div class="admin-content">
+        <div class="adcon-body">
+            <form>
+                <div class="form-control">
+                    <label for="">Yangilik sarlavhasi:</label>
+                    <input class="standart" name="title" [(ngModel)]="newNovetly.title" type="text">
+                </div>
+                <div class="form-control">
+                    <label for="">Yangilik Matni:</label>
+                    <textarea class="standart" name="body" id="" rows="10" [(ngModel)]="newNovetly.body"></textarea>
+                </div>
+                <div class="form-control">
+                    <label for="" class="btn">Rasm qoshish:
+                        <input [ngModelOptions]="{standalone:true}" type="file" [(ngModel)]="newNovetly.img">
+                    </label>
+                </div>
+                <div class="form-control">
+                    <label for="">taglar</label>
+                    <input class="standart" name="tags" type="text" [(ngModel)]="newNovetly.tags">
+                </div>
+                <div class="form-control">
+                    <button  class="btn standart" (click)="submit()">Jo'natish</button>
+                </div>
+            </form>
+        </div>
+        <div class="adcon-footer">
+
+        </div>
+    </div>
+</div>
+<div class="container flex">
+    <div class="admin-content">
+        <button class="btn btn-dark" (click)="goToNewsItem()">yangiliklarni tahrirlash</button>
+        <div class="allNevetly">
+            <router-outlet></router-outlet>
+        </div>
+        <div class="adcon-footer">
+
+        </div>
+    </div>
+</div>

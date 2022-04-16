@@ -1,0 +1,27 @@
+.footer-section{
+    background-color: $primary-color;
+    color:$white;
+    .footer{
+        display: flex;
+        justify-content: space-around;
+        .bold{
+            padding: 10px 0;
+        }
+        a{
+            color: $white;
+            @include transition;
+            &:hover{
+                color: darken($white,$primary-number);
+            }
+        }
+    }
+    .copyright{
+        span{
+            color: darken($white,1);
+            position: relative;
+            left: 80%;
+            bottom: -30px;
+            
+        }
+    }
+}

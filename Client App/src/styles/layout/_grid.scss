@@ -1,0 +1,17 @@
+.container{
+    width: 80%;
+    margin: auto;
+    &-title{
+        text-align: center;
+    }
+}
+.flex{
+    display: flex;
+    justify-content: center;
+}
+.md-container{
+    width: 98%;
+    margin: auto;
+    display: flex;
+    justify-content: space-evenly;
+}

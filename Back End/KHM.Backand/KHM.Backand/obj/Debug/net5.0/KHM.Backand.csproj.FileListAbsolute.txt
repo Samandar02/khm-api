@@ -1,0 +1,122 @@
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\appsettings.Development.json
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\appsettings.json
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.exe
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.deps.json
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.runtimeconfig.json
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.runtimeconfig.dev.json
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\ref\KHM.Backand.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.AssemblyReference.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.AssemblyInfoInputs.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.AssemblyInfo.cs
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.CoreCompileInputs.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\scopedcss\bundle\KHM.Backand.styles.css
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\staticwebassets\KHM.Backand.StaticWebAssets.Manifest.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.RazorTargetAssemblyInfo.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.CopyComplete
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\ref\KHM.Backand.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.genruntimeconfig.cache
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Humanizer.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\Like a medium\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\appsettings.Development.json
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\appsettings.json
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.exe
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.deps.json
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.runtimeconfig.json
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.runtimeconfig.dev.json
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\KHM.Backand.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Humanizer.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Data.SqlClient.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.InMemory.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.Identity.Client.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Logging.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.IdentityModel.Tokens.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Microsoft.OpenApi.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Configuration.ConfigurationManager.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.IdentityModel.Tokens.Jwt.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Runtime.Caching.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.AssemblyReference.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.GeneratedMSBuildEditorConfig.editorconfig
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.AssemblyInfoInputs.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.AssemblyInfo.cs
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.CoreCompileInputs.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.MvcApplicationPartsAssemblyInfo.cs
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.MvcApplicationPartsAssemblyInfo.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\scopedcss\bundle\KHM.Backand.styles.css
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\staticwebassets\KHM.Backand.StaticWebAssets.Manifest.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.RazorTargetAssemblyInfo.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.csproj.CopyComplete
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\refint\KHM.Backand.dll
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.pdb
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\KHM.Backand.genruntimeconfig.cache
+C:\projects\KHM webpage\bokamaktab1son\Back End\KHM.Backand\KHM.Backand\obj\Debug\net5.0\ref\KHM.Backand.dll
